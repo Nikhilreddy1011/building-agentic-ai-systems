@@ -130,4 +130,4 @@ while True:
     except Exception as e:
 
         print("\nError:", e)
-        print()s
+        print()
